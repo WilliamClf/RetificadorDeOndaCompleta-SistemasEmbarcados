@@ -12,6 +12,10 @@ O objetivo do projeto foi converter a corrente alternada (CA) proveniente de uma
 - **Regulador 7805 (U1)**: Estabiliza a tensão em 5V.
 - **Resistor (R1) e LED (D1)**: Indicam a saída estabilizada.
 
+![image](https://github.com/user-attachments/assets/ef43b1cb-7b3c-413c-a6bc-0227cd1480f1)
+*Imagem do Circuito em formato Esquemático*
+
+
 ## 📷 Fotos da Montagem na Protoboard
 
 ## 🔧 Ferramentas Utilizadas

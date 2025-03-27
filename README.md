@@ -18,6 +18,16 @@ O objetivo do projeto foi converter a corrente alternada (CA) proveniente de uma
 
 ## 📷 Fotos da Montagem na Protoboard
 
+Aqui estão as fotos das medições realizadas na prática:
+
+1. **Medição da tensão alternada (AC) na saída do transformador:**
+Nesta foto, utilizamos um multímetro para verificar a tensão de saída do transformador antes da retificação. O valor esperado era em torno de 12 volts AC, confirmando que o transformador está funcionando corretamente.
+![IMG_0162](https://github.com/user-attachments/assets/bb2a02f0-f975-4c1d-9e7a-479aac76d6dc)
+
+2. **Medição da tensão na saída do regulador 7805 (U1):**
+Nesta foto, medimos a tensão de saída do regulador de tensão. O valor esperado era de aproximadamente 5V DC, garantindo que o circuito está fornecendo uma tensão estável para alimentar o LED.
+![IMG_0166](https://github.com/user-attachments/assets/f7ed13fd-48f2-4a93-b761-40f92d8f0cfe)
+
 ## 🔧 Ferramentas Utilizadas
 
 - **PROTHEUS PROFESSIONAL 8**: Desenvolvimento do esquemático, PCB e 3D.

@@ -44,7 +44,7 @@ A seguir, o layout também foi modelado em 3D, construindo a PCB anteriormente, 
 
 ### 📌 Etapas da Construção da PCB:
 1. Conversão do esquemático atualizado para layout de PCB.
-2. Posicionamento e roteamento dos componentes, incluindo o conn-sil2 e sil-100-02.
+2. Posicionamento e roteamento dos componentes.
 3. Geração do layout 3D.
 4. Fabricação e montagem do circuito.
 

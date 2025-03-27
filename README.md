@@ -30,6 +30,24 @@ Nesta foto, medimos a tensão de saída do regulador de tensão. O valor esperad
 
 ![IMG_0166 (1)](https://github.com/user-attachments/assets/86ddec29-04cb-47c9-a17c-7b94a81adc35)
 
+## 🛠 Desenvolvimento do PCB e Layout 3D
+
+Com base no novo esquemático, o circuito foi projetado em **PCB** utilizando o **PROTHEUS 8**. Uma alteração importante foi a remoção do transformador e da tomada, substituídos por novos componentes:
+
+- **Componente Conn-Sil2(J1)**: Este componente foi integrado à ponte retificadora (BR1), proporcionando a conexão necessária para o processo de retificação sem o uso da tomada e transformador.
+- **Componente Sil-100-02(J2)**: Conectado ao **capacitor C3**, esse componente desempenha um papel essencial no filtro da tensão retificada, melhorando a eficiência do processo de estabilização da tensão.
+ 
+![image](https://github.com/user-attachments/assets/9a3adff1-9b0c-480b-a6a7-7548a2f7c45e)
+
+
+A seguir, o layout também foi modelado em 3D para uma visualização mais precisa do posicionamento dos componentes e das trilhas.
+
+### 📌 Etapas da Construção da PCB:
+1. Conversão do esquemático atualizado para layout de PCB.
+2. Posicionamento e roteamento dos componentes, incluindo o conn-sil2 e sil-100-02.
+3. Geração do layout 3D.
+4. Fabricação e montagem do circuito.
+
 ## 🔧 Ferramentas Utilizadas
 
 - **PROTHEUS PROFESSIONAL 8**: Desenvolvimento do esquemático, PCB e 3D.

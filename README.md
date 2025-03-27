@@ -27,7 +27,8 @@ Nesta foto, utilizamos um multímetro para verificar a tensão de saída do tran
 
 3. **Medição da tensão na saída do regulador 7805 (U1):**
 Nesta foto, medimos a tensão de saída do regulador de tensão. O valor esperado era de aproximadamente 5V DC, garantindo que o circuito está fornecendo uma tensão estável para alimentar o LED.
-![IMG_0166](https://github.com/user-attachments/assets/f7ed13fd-48f2-4a93-b761-40f92d8f0cfe)
+
+![IMG_0166 (1)](https://github.com/user-attachments/assets/86ddec29-04cb-47c9-a17c-7b94a81adc35)
 
 ## 🔧 Ferramentas Utilizadas
 

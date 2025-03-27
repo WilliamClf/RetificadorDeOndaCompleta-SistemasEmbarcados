@@ -22,8 +22,7 @@ Aqui estão as fotos das medições realizadas na prática:
 
 1. **Medição da tensão alternada (AC) na saída do transformador:**
 Nesta foto, utilizamos um multímetro para verificar a tensão de saída do transformador antes da retificação. O valor esperado era em torno de 12 volts AC, confirmando que o transformador está funcionando corretamente.
-![IMG_0162 (1)](https://github.com/user-attachments/assets/d04882f6-1530-4059-a407-3eb55f4c9556)
-
+![IMG_0162 (1)](https://github.com/user-attachments/assets/a5fd5ab6-f41a-467c-b58b-60c47bb2c0aa)
 
 2. **Medição da tensão na saída do regulador 7805 (U1):**
 Nesta foto, medimos a tensão de saída do regulador de tensão. O valor esperado era de aproximadamente 5V DC, garantindo que o circuito está fornecendo uma tensão estável para alimentar o LED.

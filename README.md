@@ -40,7 +40,7 @@ Com base no novo esquemático, o circuito foi projetado em **PCB** utilizando o 
 ![image](https://github.com/user-attachments/assets/9a3adff1-9b0c-480b-a6a7-7548a2f7c45e)
 
 
-A seguir, o layout também foi modelado em 3D para uma visualização mais precisa do posicionamento dos componentes e das trilhas.
+A seguir, o layout também foi modelado em 3D, construindo a PCB anteriormente, para uma visualização mais precisa do posicionamento dos componentes e das trilhas.
 
 ### 📌 Etapas da Construção da PCB:
 1. Conversão do esquemático atualizado para layout de PCB.

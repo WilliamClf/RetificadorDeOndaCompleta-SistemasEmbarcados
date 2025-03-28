@@ -43,7 +43,6 @@ A seguir, o layout também foi modelado em 3D, construindo a PCB anteriormente, 
 1. Conversão do esquemático atualizado para layout de PCB.
 2. Posicionamento e roteamento dos componentes.
 3. Geração do layout 3D.
-4. Fabricação e montagem do circuito.
 
 ## 🖨️ PCB
 ![image](https://github.com/user-attachments/assets/b237c372-57fb-4467-a83b-7fddf13672c0)

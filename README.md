@@ -48,10 +48,10 @@ A seguir, o layout também foi modelado em 3D, construindo a PCB anteriormente, 
 3. Geração do layout 3D.
 4. Fabricação e montagem do circuito.
 
-## PCB Constrúido
+## 🖨️ PCB Constrúido
 ![image](https://github.com/user-attachments/assets/6b5a3065-5f44-4398-9591-0e45df2b99d0)
 
-## Layout em 3D
+## 🖼️ Layout em 3D
 ![image](https://github.com/user-attachments/assets/5110a3ed-d2bc-4404-89a9-52f1de8eec1a) ![image](https://github.com/user-attachments/assets/184638af-cd8f-4754-8452-673e32880c2b)
 
 ## 🔧 Ferramentas Utilizadas

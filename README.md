@@ -20,7 +20,11 @@ O objetivo do projeto foi converter a corrente alternada (CA) proveniente de uma
 
 Aqui estão as fotos das medições realizadas na prática:
 
-1. **Medição da tensão alternada (AC) na saída do transformador:**
+1. **Foto do Circuito Montado**
+![IMG_0231](https://github.com/user-attachments/assets/1be529ef-9885-46f7-8099-35f22f096a42)
+
+
+2. **Medição da tensão alternada (AC) na saída do transformador:**
 Nesta foto, utilizamos um multímetro para verificar a tensão de saída do transformador antes da retificação. O valor esperado era em torno de 12 volts AC, confirmando que o transformador está funcionando corretamente.
 
 ![IMG_0162 (1)](https://github.com/user-attachments/assets/a5fd5ab6-f41a-467c-b58b-60c47bb2c0aa)

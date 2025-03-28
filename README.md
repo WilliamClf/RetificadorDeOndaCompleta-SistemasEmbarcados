@@ -36,9 +36,6 @@ Com base no novo esquemático, o circuito foi projetado em **PCB** utilizando o 
 
 - **Componente Conn-Sil2(J1)**: Este componente foi integrado à ponte retificadora (BR1), proporcionando a conexão necessária para o processo de retificação sem o uso da tomada e transformador.
 - **Componente Sil-100-02(J2)**: Conectado ao **capacitor C3**, esse componente desempenha um papel essencial no filtro da tensão retificada, melhorando a eficiência do processo de estabilização da tensão.
- 
-![image](https://github.com/user-attachments/assets/9a3adff1-9b0c-480b-a6a7-7548a2f7c45e)
-
 
 A seguir, o layout também foi modelado em 3D, construindo a PCB anteriormente, para uma visualização mais precisa do posicionamento dos componentes e das trilhas.
 

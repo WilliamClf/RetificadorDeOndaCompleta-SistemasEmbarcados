@@ -59,15 +59,15 @@ A seguir, o layout também foi modelado em 3D, construindo a PCB anteriormente, 
 - **PROTHEUS PROFESSIONAL 8**: Desenvolvimento do esquemático, PCB e 3D.
 - **Protoboard e Componentes Eletrônicos**: Montagem física do circuito.
 
-## 📖 Como Funciona
+### 📖 Como Funciona
 
-1. A tomada fornece corrente alternada (CA) ao transformador.
-2. O transformador reduz a tensão para um nível seguro.
-3. A ponte retificadora converte CA em corrente contínua pulsante.
-4. Capacitores filtram a tensão, reduzindo oscilações.
-5. O regulador 7805 estabiliza a saída em 5V.
-6. O LED acende, indicando que o circuito funciona corretamente.
+1. **Entrada de Corrente Alternada (CA)**: A corrente alternada (CA) é fornecida pela tomada e chega ao circuito.
+2. **Transformador**: O transformador reduz a tensão da rede elétrica para um nível adequado para a retificação.
+3. **Ponte Retificadora (BR1)**: A ponte retificadora converte a corrente alternada (CA) em corrente contínua pulsante.
+4. **Filtragem**: Os capacitores **C1**, **C2** e **C3** filtram a tensão retificada, removendo oscilações e suavizando a corrente.
+5. **Regulador de Tensão (7805)**: O regulador 7805 estabiliza a tensão de saída, mantendo-a constante em 5V DC.
+6. **Saída para o LED**: O resistor (R1) e o LED (D1) indicam visualmente que a tensão foi estabilizada e o circuito está funcionando corretamente.
 
-## 📌 Conclusão
+### 📌 Conclusão
 
-Este projeto demonstrou a conversão de corrente alternada em contínua de forma eficiente, sendo uma base importante para circuitos de fontes de alimentação reguladas.
+Este projeto demonstrou a conversão de corrente alternada (CA) em corrente contínua (CC) de maneira eficiente e estável, utilizando componentes básicos de eletrônica. A integração de uma ponte retificadora, filtros capacitivos e um regulador de tensão permitiu criar uma fonte de alimentação regulada, que é essencial para alimentar circuitos sensíveis, como LEDs. Além disso, o uso de um novo esquemático, sem a necessidade de transformador e tomada, simplificou o circuito, tornando-o mais compacto e prático. Este projeto serve como uma base importante para o desenvolvimento de fontes de alimentação em sistemas embarcados.

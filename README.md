@@ -49,10 +49,13 @@ A seguir, o layout também foi modelado em 3D, construindo a PCB anteriormente, 
 4. Fabricação e montagem do circuito.
 
 ## 🖨️ PCB
-![image](https://github.com/user-attachments/assets/6b5a3065-5f44-4398-9591-0e45df2b99d0)
+![image](https://github.com/user-attachments/assets/b237c372-57fb-4467-a83b-7fddf13672c0)
+
 
 ## 🖼️ Layout em 3D
-![image](https://github.com/user-attachments/assets/5110a3ed-d2bc-4404-89a9-52f1de8eec1a) ![image](https://github.com/user-attachments/assets/184638af-cd8f-4754-8452-673e32880c2b)
+![image](https://github.com/user-attachments/assets/5534b9d1-1b46-43de-a87f-bfafd8857008)
+![image](https://github.com/user-attachments/assets/fb973fd2-5331-4eda-bdf0-154369dd68b2)
+
 
 ## 🔧 Ferramentas Utilizadas
 

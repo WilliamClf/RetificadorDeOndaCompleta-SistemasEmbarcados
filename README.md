@@ -1,4 +1,4 @@
-# Portifólio - Sistemas Embarcados 🔌💡
+# Portfólio - Sistemas Embarcados 🔌💡
 
 Este repositório contém um projeto desenvolvido na disciplina de **Sistemas Embarcados** do curso de **Sistemas de Informação (5º período)**. O projeto consiste na criação de um **circuito retificador de onda completa**, projetado na plataforma **PROTHEUS PROFESSIONAL 8** e posteriormente montado em uma **protoboard** para testes práticos.
 
